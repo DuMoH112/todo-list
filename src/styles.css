@@ -1,0 +1,34 @@
+.title {
+  text-align: center;
+}
+
+.addInput {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.list {
+  text-align: left;
+}
+
+#App {
+  display: inline;
+}
+
+.important {
+  color: red;
+  text-shadow: 1px 1px rgba(0, 0, 0, 0.3);
+}
+
+.doneElement {
+  text-decoration: line-through;
+}
+
+.list-element {
+  list-style-type: none;
+}
+
+.trash {
+  text-align: right;
+}
